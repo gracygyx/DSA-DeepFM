@@ -14,7 +14,7 @@
 - We preprocessed the O'Neil dataset and saved it in npy format,  which can be downloaded from Google drive. 
 
        ```
-       link: https://drive.google.com/drive/folders/1KQU7kKH-MFl2bJhsrLv1ZHxm35Nvhhsf?usp=drive_link
+       https://drive.google.com/drive/folders/1KQU7kKH-MFl2bJhsrLv1ZHxm35Nvhhsf?usp=drive_link
        ```
 
 
