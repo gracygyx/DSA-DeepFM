@@ -1,4 +1,4 @@
-## DSA-DeepFM: A DeepFM Model with Dual-Stage Attention for Predicting Anticancer Synergistic Drug Combinations
+## DSA-DeepFM: A Dual-Stage Attention-Enhanced DeepFM Model for Predicting Anticancer Synergistic Drug Combinations
 
 ### Model
 - Framework
