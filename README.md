@@ -2,10 +2,10 @@
 
 ### Model
 - Framework
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/framework.png)
+  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/framework.jpg)
 
 - Dual-Stage Attention mechanism
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/Attention.png)
+  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/Attention.jpg)
 
 ### Data preparation
 
@@ -34,8 +34,8 @@ python main_DSA_DeepFM_oneil.py
 ### Performance on DrugCombDB and O'Neil datasets
 
 - DrugCombDB dataset
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/DrugCombDB.png)
+  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/DrugCombDB.jpg)
 
 - O'Neil dataset
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/oneil.png)
+  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/oneil.jpg)
 
