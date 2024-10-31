@@ -4,7 +4,7 @@
 - Framework
   ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/framework.jpg)
 
-- Dual-Stage Attention mechanism
+- Dual-Stage Attention-Enhanced mechanism
   ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/Attention.jpg)
 
 ### Data preparation
