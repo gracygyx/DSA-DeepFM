@@ -21,6 +21,11 @@
 
 - Place the downloaded npy files in the "DSA-DeepFM" directory.
 
+### Environment
+
+```
+pip install -r requirements.txt
+```
 
 
 ### Train and Test
